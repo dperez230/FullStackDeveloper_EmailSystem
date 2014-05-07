@@ -2,10 +2,12 @@
 public class FullStackDeveloper_EmailSystem {
 
 	/**
-	 * @param args
+	 Name: Damaris Perez
+	 Date: 5/6/2014
+	 Instructor: David-kun
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Welcome to the Email System");
 
 	}
 
